@@ -1,4 +1,4 @@
-# lunaris
+# Lunaris
 
 A new Flutter project.
 
